@@ -271,7 +271,7 @@ module.exports = function autoShit(mod) {
 					1: {
 						rootbeerinfo: 80081,
 						broochinfo: 0,
-						buffid: 200701,
+						buffid: 170240,
 						active: 'nextskill',
 						brooch: 'once',
 						rootbeer: 'inbuff'
